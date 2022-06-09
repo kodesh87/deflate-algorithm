@@ -1,2 +1,7 @@
-# deflate-compression-algorith
-an Implementation of Deflate compression algorithm using Java Programming Language.
+# Implementation of Deflate Compression Algorithm deflate-compression-algorithm
+
+> I built this implementation for the purposes of my thesis in 2010
+
+## Technology
+1. Java
+2. Java Swing
